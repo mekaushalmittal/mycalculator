@@ -5,12 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00b421c5-6ab7-4692-91e0-5a98f36842f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/addTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/addTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Calc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Calc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mycalc-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycalc-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mycalc-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycalc-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,9 +39,13 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -66,7 +82,7 @@
       <updated>1615571160577</updated>
       <workItem from="1615571163725" duration="173000" />
       <workItem from="1615571350609" duration="71000" />
-      <workItem from="1615571543412" duration="377000" />
+      <workItem from="1615571543412" duration="2697000" />
     </task>
     <servers />
   </component>

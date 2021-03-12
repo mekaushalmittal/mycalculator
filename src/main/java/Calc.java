@@ -2,14 +2,14 @@ import java.util.Scanner;
 
 public class Calc{
 
-    int ans;
-    int x, y;
+    double ans;
+    double x, y;
 
-    public int add(int x, int y){
+    public double add(double x, double y){
         return x+y;
     }
 
-    public int evaluate(int op, int x, int y){
+    public double evaluate(int op, double x, double y){
         switch(op) 
         { 
             case(1): 
@@ -29,8 +29,8 @@ public class Calc{
         System.out.println("Choose operation \n1. Increment \n2. Addition");
         
         int op = scan.nextInt();
-        int x = 0;
-        int y = 0;
+        double x = 0;
+        double y = 0;
         
         if (op<2){
             System.out.print("Enter operand x: ");
