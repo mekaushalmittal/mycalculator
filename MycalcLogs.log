@@ -1,0 +1,6 @@
+2021-03-13 02:15:53.606 [Calc.java] INFO  Calc - add 3.0 + 4.0 = 7.0
+2021-03-13 02:15:53.611 [Calc.java] INFO  Calc - add 3.0 + -4.0 = -1.0
+2021-03-13 02:15:53.612 [Calc.java] INFO  Calc - add -3.0 + -4.0 = -7.0
+2021-03-13 02:16:33.306 [Calc.java] INFO  Calc - add 3.0 + -4.0 = -1.0
+2021-03-13 02:16:33.311 [Calc.java] INFO  Calc - add -3.0 + -4.0 = -7.0
+2021-03-13 02:16:33.312 [Calc.java] INFO  Calc - add 3.0 + 4.0 = 7.0

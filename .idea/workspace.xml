@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00b421c5-6ab7-4692-91e0-5a98f36842f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myhost" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playbook.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/playbook.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MycalcLogs.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mycalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mycalculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Calc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Calc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mycalc-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycalc-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mycalc-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycalc-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-addTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-addTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/addTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/addTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +52,8 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -78,7 +90,7 @@
       <updated>1615571160577</updated>
       <workItem from="1615571163725" duration="173000" />
       <workItem from="1615571350609" duration="71000" />
-      <workItem from="1615571543412" duration="4539000" />
+      <workItem from="1615571543412" duration="5862000" />
     </task>
     <servers />
   </component>
