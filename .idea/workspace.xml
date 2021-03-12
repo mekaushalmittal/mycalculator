@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00b421c5-6ab7-4692-91e0-5a98f36842f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/addTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/addTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Calc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Calc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mycalc-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycalc-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mycalc-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycalc-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +78,7 @@
       <updated>1615571160577</updated>
       <workItem from="1615571163725" duration="173000" />
       <workItem from="1615571350609" duration="71000" />
-      <workItem from="1615571543412" duration="2697000" />
+      <workItem from="1615571543412" duration="3675000" />
     </task>
     <servers />
   </component>
