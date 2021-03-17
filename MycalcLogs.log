@@ -1,10 +1,32 @@
-2021-03-13 02:15:53.606 [Calc.java] INFO  Calc - add 3.0 + 4.0 = 7.0
-2021-03-13 02:15:53.611 [Calc.java] INFO  Calc - add 3.0 + -4.0 = -1.0
-2021-03-13 02:15:53.612 [Calc.java] INFO  Calc - add -3.0 + -4.0 = -7.0
-2021-03-13 02:16:33.306 [Calc.java] INFO  Calc - add 3.0 + -4.0 = -1.0
-2021-03-13 02:16:33.311 [Calc.java] INFO  Calc - add -3.0 + -4.0 = -7.0
-2021-03-13 02:16:33.312 [Calc.java] INFO  Calc - add 3.0 + 4.0 = 7.0
-2021-03-13 02:47:57.283 [Calc.java] INFO  Calc - sqrt 25.0 = 5.0
-2021-03-13 02:47:57.289 [Calc.java] INFO  Calc - pow 4.0^3.0 = 64.0
-2021-03-13 02:47:57.290 [Calc.java] INFO  Calc - factorial 6.0 = 720.0
-2021-03-13 02:47:57.290 [Calc.java] INFO  Calc - log 10.0 = 2.302585092994046
+17/Mar/2021:21:52:26 047 [Calc.java] [INFO] Calc [FACTORIAL] - 6.0
+17/Mar/2021:21:52:26 050 [Calc.java] [INFO] Calc [RESULT - FACTORIAL] - 720.0
+17/Mar/2021:21:52:26 051 [Calc.java] [INFO] Calc [SQRT] - 25.0
+17/Mar/2021:21:52:26 051 [Calc.java] [INFO] Calc [RESULT - SQRT] - 5.0
+17/Mar/2021:21:52:26 051 [Calc.java] [INFO] Calc [POWER] - 4.0, 3.0
+17/Mar/2021:21:52:26 052 [Calc.java] [INFO] Calc [RESULT - POWER] - 64.0
+17/Mar/2021:21:52:26 052 [Calc.java] [INFO] Calc [LOG] - 10.0
+17/Mar/2021:21:52:26 052 [Calc.java] [INFO] Calc [RESULT - LOG] - 2.302585092994046
+17/Mar/2021:21:53:16 039 [Calc.java] [INFO] Calc [FACTORIAL] - 6.0
+17/Mar/2021:21:53:16 043 [Calc.java] [INFO] Calc [RESULT - FACTORIAL] - 720.0
+17/Mar/2021:21:53:16 044 [Calc.java] [INFO] Calc [LOG] - 10.0
+17/Mar/2021:21:53:16 045 [Calc.java] [INFO] Calc [RESULT - LOG] - 2.302585092994046
+17/Mar/2021:21:53:16 046 [Calc.java] [INFO] Calc [POWER] - 4.0, 3.0
+17/Mar/2021:21:53:16 046 [Calc.java] [INFO] Calc [RESULT - POWER] - 64.0
+17/Mar/2021:21:53:16 047 [Calc.java] [INFO] Calc [SQRT] - 25.0
+17/Mar/2021:21:53:16 047 [Calc.java] [INFO] Calc [RESULT - SQRT] - 5.0
+17/Mar/2021:21:54:05 289 [Calc.java] [INFO] Calc [FACTORIAL] - 6.0
+17/Mar/2021:21:54:05 293 [Calc.java] [INFO] Calc [RESULT - FACTORIAL] - 720.0
+17/Mar/2021:21:54:05 294 [Calc.java] [INFO] Calc [SQRT] - 25.0
+17/Mar/2021:21:54:05 295 [Calc.java] [INFO] Calc [RESULT - SQRT] - 5.0
+17/Mar/2021:21:54:05 295 [Calc.java] [INFO] Calc [LOG] - 10.0
+17/Mar/2021:21:54:05 295 [Calc.java] [INFO] Calc [RESULT - LOG] - 2.302585092994046
+17/Mar/2021:21:54:05 296 [Calc.java] [INFO] Calc [POWER] - 4.0, 3.0
+17/Mar/2021:21:54:05 296 [Calc.java] [INFO] Calc [RESULT - POWER] - 64.0
+18/Mar/2021:21:54:31 936 [Calc.java] [INFO] Calc [FACTORIAL] - 6.0
+18/Mar/2021:21:54:31 939 [Calc.java] [INFO] Calc [RESULT - FACTORIAL] - 720.0
+18/Mar/2021:21:54:31 940 [Calc.java] [INFO] Calc [LOG] - 10.0
+18/Mar/2021:21:54:31 941 [Calc.java] [INFO] Calc [RESULT - LOG] - 2.302585092994046
+18/Mar/2021:21:54:31 941 [Calc.java] [INFO] Calc [SQRT] - 25.0
+18/Mar/2021:21:54:31 942 [Calc.java] [INFO] Calc [RESULT - SQRT] - 5.0
+18/Mar/2021:21:54:31 942 [Calc.java] [INFO] Calc [POWER] - 4.0, 3.0
+18/Mar/2021:21:54:31 942 [Calc.java] [INFO] Calc [RESULT - POWER] - 64.0

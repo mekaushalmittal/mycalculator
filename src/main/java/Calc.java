@@ -22,23 +22,27 @@ public class Calc{
         switch(op) 
         { 
             case(1): 
-                ans = Math.sqrt(x); 
-                logger.info("sqrt " + x + " = " + ans);
+                ans = Math.sqrt(x);
+                logger.info("[SQRT] - " + x);
+                logger.info("[RESULT - SQRT] - " + ans);
 
                 break; 
             case(2): 
-                ans = factorial(x); 
-                logger.info("factorial " + x + " = " + ans);
+                ans = factorial(x);
+                logger.info("[FACTORIAL] - " + x);
+                logger.info("[RESULT - FACTORIAL] - " + ans);
 
                 break;
             case(3):
-                ans = Math.log(x); 
-                logger.info("log " + x + " = " + ans);
+                ans = Math.log(x);
+                logger.info("[LOG] - " + x);
+                logger.info("[RESULT - LOG] - " + ans);
 
                 break;
             case(4):
-                ans = Math.pow(x, y); 
-                logger.info("pow " + x + "^" + y + " = " + ans);
+                ans = Math.pow(x, y);
+                logger.info("[POWER] - " + x + ", " + y);
+                logger.info("[RESULT - POWER] - " + ans);
                 break;              
 
         } 
